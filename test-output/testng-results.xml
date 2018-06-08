@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-06-07T18:28:08Z" name="Default suite" finished-at="2018-06-07T18:30:09Z" duration-ms="121292">
+    <groups>
+    </groups>
+    <test started-at="2018-06-07T18:28:08Z" name="Default test" finished-at="2018-06-07T18:30:09Z" duration-ms="121292">
+      <class name="com.amazon.test.AmazonTest">
+        <test-method is-config="true" signature="beforeAllTestStart()[pri:0, instance:com.amazon.test.AmazonTest@561b6512]" started-at="2018-06-07T11:28:08Z" name="beforeAllTestStart" finished-at="2018-06-07T11:28:08Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method is-config="true" signature="beforeEachTestStart()[pri:0, instance:com.amazon.test.AmazonTest@561b6512]" started-at="2018-06-07T11:28:08Z" name="beforeEachTestStart" finished-at="2018-06-07T11:28:26Z" duration-ms="18022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method signature="groupSetup()[pri:0, instance:com.amazon.test.AmazonTest@561b6512]" started-at="2018-06-07T11:28:26Z" name="groupSetup" description="Demo Test" finished-at="2018-06-07T11:30:06Z" duration-ms="100310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- groupSetup -->
+        <test-method is-config="true" signature="afterEachTestComplete()[pri:0, instance:com.amazon.test.AmazonTest@561b6512]" started-at="2018-06-07T11:30:06Z" name="afterEachTestComplete" finished-at="2018-06-07T11:30:08Z" duration-ms="2337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestComplete -->
+        <test-method is-config="true" signature="afterAllTestsComplete()[pri:0, instance:com.amazon.test.AmazonTest@561b6512]" started-at="2018-06-07T11:30:08Z" name="afterAllTestsComplete" finished-at="2018-06-07T11:30:09Z" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestsComplete -->
+      </class> <!-- com.amazon.test.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
